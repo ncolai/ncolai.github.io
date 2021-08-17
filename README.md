@@ -1,6 +1,6 @@
 ## Notable Projects
 
-[Here's a collection of algorithmic visualizations.](https://github.com/deepdaydreams/deepdaydreams.github.io/edit/main/README.md) 
+[Here's a collection of algorithmic visualizations.](https://deepdaydreams.github.io/algo-theory/) 
 
 Papers that I've published: (WORK IN PROGRESS)
 
