@@ -1,7 +1,9 @@
-layout: page
-title: "Personal Philosophy"
+---
+layout: default
+title: Personal Philosophy
 permalink: /philosophy/
-remote_theme: pages-themes/midnight@v0.2.0
+tags: philosophy, life
+---
 
 ### My Life Philosophy 
 

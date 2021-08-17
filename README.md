@@ -10,5 +10,5 @@ Musical projects. (WORK IN PROGRESS)
 
 [My life philosophy.](https://deepdaydreams.github.io/philosophy/) 
 
-[Contact me via email.](mailto://nicholaslai749@gmail.com)
+[Contact me via email.](mailto:nicholaslai749@gmail.com)
 
