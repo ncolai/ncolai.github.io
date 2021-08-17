@@ -8,7 +8,7 @@ Papers that I've published: (WORK IN PROGRESS)
 
 Musical projects. (WORK IN PROGRESS)
 
-[My life philosophy.](https://deepdaydreams.github.io/philosophy/index.html) 
+[My life philosophy.](https://deepdaydreams.github.io/philosophy/) 
 
 [Contact me via email.](mailto://nicholaslai749@gmail.com)
 
