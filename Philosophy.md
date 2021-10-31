@@ -16,3 +16,5 @@ If you're unhappy with the way things are going, you are the one who must change
 Joy comes not through material things or abstract ideas but through living beings, in particular people who you lift up and who lift you up. 
 
 Be the person who you'd look up to as a child, not the person that you think others want you to be. 
+
+![Place I've been](./img/mill_valley.jpg)
