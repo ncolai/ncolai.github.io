@@ -6,7 +6,7 @@
 
 ## Other Stuff
 
-Musical projects. (WORK IN PROGRESS)
+[Musical projects.](https://soundcloud.com/nicolai-the-creative)
 
 [My life philosophy.](https://deepdaydreams.github.io/philosophy/) 
 
