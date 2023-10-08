@@ -1,7 +1,8 @@
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Nick Lai
-description: Check out what's new. 
+title: Hello!
+description: My name is Nick Lai. Below is a sample of the many things I've been involved with over the years. Enjoy!
+![Place I've been](./img/mill_valley.jpg)
 
 theme: jekyll-theme-midnight
