@@ -8,7 +8,7 @@ In my time on Earth, I've been very fortunate to have been involved in many diff
 [**ACTING RESUME**](https://drive.google.com/file/d/1nnquDaVWkyvAtYG0D7AVxjXnjeUU-r-D/view?usp=sharing)/[**HEADSHOT**](./img/headshot.jpg)
 > I have acted, danced, and directed theater in various capacities, mostly around New York. I have trained with the Barrow Group, the Magnet Theater, PMT House of Dance, and LaMama Experimental Theater Group. 
 
-[**ALGO THEORY**](https://deepdaydreams.github.io/algo-theory/) 
+[**ALGO THEORY**](https://ncolai.github.io/algo-theory/) 
 > I made an algorithmic visualizer for the 1st Summer of Math Exposition, and it was nominated for a Webby! This is a good showcase of my design sensibilities, front end skills, and also curriculum designing ability. 
 
 [**PUBLISHED RESEARCH**](https://arxiv.org/search/cs?searchtype=author&query=Lai%2C+Nicholas) 
