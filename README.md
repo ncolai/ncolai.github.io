@@ -3,10 +3,10 @@
 In my time on Earth, I've been very fortunate to have been involved in many different types of work and projects. If that's what you're here for, look no further. 
 
 [**COMPOSING PORTFOLIO**](https://soundcloud.com/nicolai-the-creative) 
-> I am classically trained in piano and violin, and I compose in an ambient and orchestral style. I have also been fortunate enough to participate in several composition festivals. Message me if you'd like to discuss more! 
+> I am classically trained in piano and violin, and I compose in an ambient and orchestral style. I have also been fortunate enough to participate in several composition festivals including the Valencia Internatinal Performing Arts and ICEBERG Institute festivals. Message me if you'd like to discuss more! 
 
 [**ACTING RESUME**](https://drive.google.com/file/d/1nnquDaVWkyvAtYG0D7AVxjXnjeUU-r-D/view?usp=sharing)/[**HEADSHOT**](./img/headshot.jpg)
-> I have acted, danced, and directed theater in various capacities, mostly around New York. I have trained with the Barrow Group, the Magnet Theater, PMT House of Dance, and LaMama Experimental Theater Group. 
+> I have acted, danced, and directed theater in various capacities, mostly around New York. I have trained with the Barrow Group, the Magnet Theater, PMT House of Dance, LA Connection Comedy, and LaMama Experimental Theater Group. 
 
 [**ALGO THEORY**](https://ncolai.github.io/algo-theory/) 
 > I made an algorithmic visualizer for the 1st Summer of Math Exposition, and it was nominated for a Webby! This is a good showcase of my design sensibilities, front end skills, and also curriculum designing ability. 
