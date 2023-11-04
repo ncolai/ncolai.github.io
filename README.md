@@ -1,11 +1,9 @@
 ## Quick Links
 
-In my time on Earth, I've been very fortunate to have been involved in many different types of work and projects. If that's what you're here for, look no further. 
-
 [**COMPOSING PORTFOLIO**](https://soundcloud.com/nicolai-the-creative) 
 > I am classically trained in piano and violin, and I compose in an ambient and orchestral style. I have also been fortunate enough to participate in several composition festivals including the Valencia Internatinal Performing Arts and ICEBERG Institute festivals. Message me if you'd like to discuss more! 
 
-[**ACTING RESUME**](https://drive.google.com/file/d/1nnquDaVWkyvAtYG0D7AVxjXnjeUU-r-D/view?usp=sharing)/[**HEADSHOT**](./img/headshot.jpg)
+[**ACTING RESUME**](https://drive.google.com/file/d/1nnquDaVWkyvAtYG0D7AVxjXnjeUU-r-D/view?usp=sharing)/[**HEADSHOT**](./img/headshot-alternate.jpg)
 > I have acted, danced, and directed theater in various capacities, mostly around New York. I have trained with the Barrow Group, the Magnet Theater, PMT House of Dance, LA Connection Comedy, and LaMama Experimental Theater Group. 
 
 [**ALGO THEORY**](https://ncolai.github.io/algo-theory/) 
@@ -20,7 +18,7 @@ I am a huge nature lover and [have led outdoor trips in the Sierra Nevada for yo
 
 [I also like to read and occasionally write.](https://www.goodreads.com/user/show/139899437-nick) [I published poetry in my college paper](https://stanforddaily.com/2021/04/04/ode-to-my-kindle/) and have a couple of pieces including a novel that I'd love to get published someday. Ahh, if only I could have more time and money to do things...
 
-That's a lot of text! I am a big believer in face-to-face communication, so if you'd like to contact me, the best way to do so is [via email.](mailto:nicholaslai749@gmail.com)
+That's a lot of text! I am a big believer in face-to-face communication, so if you'd like to contact me, the best way to do so is [via email.](mailto:nicklai@cs.stanford.edu)
 
 ## Life Philosophy
 
