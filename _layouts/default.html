@@ -36,8 +36,10 @@
       <section>
         <div id="title">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
-          <div><img src="./img/headshot.png" alt="A pic of me encircled."></div>
-          <p>{{ site.description | default: site.github.project_tagline }}</p>
+          <p>{{ site.subtitle | default: site.github.project_tagline }}</p>
+          <div><img src="./img/me_mosaic.jpg" alt="A photomosaic of thousands of faces forming an image of myself, created using the Flickr Faces Dataset and AndreaMosaic."></div>
+          <h3 style="text-align:center;">"{{ site.mainquote | default: site.github.project_tagline }}"</h5>
+          <h4 style="text-align:center;">{{ site.mainquoteperson | default: site.github.project_tagline }}</h6>
           <hr>
         </div>
 
